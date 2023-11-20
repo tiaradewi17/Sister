@@ -1,0 +1,386 @@
+[
+    {
+        "No": "1.",
+        "NIM": "123456789",
+        "Jurusan": "Teknik Informatika",
+        "Mata_Kuliah": "Pemrograman Dasar"
+    },
+    {
+        "No": "2.",
+        "NIM": "987654321",
+        "Jurusan": "Sistem Informasi",
+        "Mata_Kuliah": "Basis Data"
+    },
+    {
+        "No": "3.",
+        "NIM": "567890123",
+        "Jurusan": "Ilmu Komputer",
+        "Mata_Kuliah": "Struktur Data"
+    },
+    {
+        "No": "4.",
+        "NIM": "321654987",
+        "Jurusan": "Teknik Elektro",
+        "Mata_Kuliah": "Sistem Kontrol"
+    },
+    {
+        "No": "5.",
+        "NIM": "789012345",
+        "Jurusan": "Teknik Mesin",
+        "Mata_Kuliah": "Termodinamika"
+    },
+    {
+        "No": "6.",
+        "NIM": "111223344",
+        "Jurusan": "Manajemen",
+        "Mata_Kuliah": "Manajemen Keuangan"
+    },
+    {
+        "No": "7.",
+        "NIM": "445566778",
+        "Jurusan": "Akuntansi",
+        "Mata_Kuliah": "Akuntansi Keuangan"
+    },
+    {
+        "No": "8.",
+        "NIM": "998877665",
+        "Jurusan": "Ilmu Hukum",
+        "Mata_Kuliah": "Hukum Bisnis"
+    },
+    {
+        "No": "9.",
+        "NIM": "554433221",
+        "Jurusan": "Psikologi",
+        "Mata_Kuliah": "Psikologi Organisasi"
+    },
+    {
+        "No": "10.",
+        "NIM": "112233445",
+        "Jurusan": "Ilmu Komunikasi",
+        "Mata_Kuliah": "Public Relations"
+    },
+    {
+        "No": "11.",
+        "NIM": "667788990",
+        "Jurusan": "Bahasa Inggris",
+        "Mata_Kuliah": "Advanced English"
+    },
+    {
+        "No": "12.",
+        "NIM": "445566778",
+        "Jurusan": "Ilmu Ekonomi",
+        "Mata_Kuliah": "Ekonomi Makro"
+    },
+    {
+        "No": "13.",
+        "NIM": "112233445",
+        "Jurusan": "Ilmu Politik",
+        "Mata_Kuliah": "Teori Politik"
+    },
+    {
+        "No": "14.",
+        "NIM": "990011122",
+        "Jurusan": "Teknik Perencanaan Wilayah dan Kota",
+        "Mata_Kuliah": "Perencanaan Kota"
+    },
+    {
+        "No": "15.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Sipil",
+        "Mata_Kuliah": "Struktur Bangunan"
+    },
+    {
+        "No": "16.",
+        "NIM": "556677889",
+        "Jurusan": "Arsitektur",
+        "Mata_Kuliah": "Desain Arsitektur"
+    },
+    {
+        "No": "17.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Lingkungan",
+        "Mata_Kuliah": "Pengelolaan Limbah"
+    },
+    {
+        "No": "18.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Kimia",
+        "Mata_Kuliah": "Kimia Industri"
+    },
+    {
+        "No": "19.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Biomedis",
+        "Mata_Kuliah": "Biologi Sel"
+    },
+    {
+        "No": "20.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Industri",
+        "Mata_Kuliah": "Manajemen Operasi"
+    },
+    {
+        "No": "21.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Elektro",
+        "Mata_Kuliah": "Sistem Embedded"
+    },
+    {
+        "No": "22.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Informatika",
+        "Mata_Kuliah": "Machine Learning"
+    },
+    {
+        "No": "23.",
+        "NIM": "112233445",
+        "Jurusan": "Sistem Informasi",
+        "Mata_Kuliah": "E-Business"
+    },
+    {
+        "No": "24.",
+        "NIM": "334455667",
+        "Jurusan": "Manajemen Informatika",
+        "Mata_Kuliah": "Sistem Basis Data"
+    },
+    {
+        "No": "25.",
+        "NIM": "556677889",
+        "Jurusan": "Ilmu Komputer",
+        "Mata_Kuliah": "Algoritma dan Struktur Data"
+    },
+    {
+        "No": "26.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Informatika",
+        "Mata_Kuliah": "Jaringan Komputer"
+    },
+    {
+        "No": "27.",
+        "NIM": "334455667",
+        "Jurusan": "Sistem Informasi",
+        "Mata_Kuliah": "Pengembangan Aplikasi Web"
+    },
+    {
+        "No": "28.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Elektro",
+        "Mata_Kuliah": "Komunikasi Data"
+    },
+    {
+        "No": "29.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Mesin",
+        "Mata_Kuliah": "Mekanika Fluida"
+    },
+    {
+        "No": "30.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Kimia",
+        "Mata_Kuliah": "Rekayasa Proses"
+    },
+    {
+        "No": "31.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Sipil",
+        "Mata_Kuliah": "Teknik Struktur"
+    },
+    {
+        "No": "32.",
+        "NIM": "112233445",
+        "Jurusan": "Arsitektur",
+        "Mata_Kuliah": "Desain Interior"
+    },
+    {
+        "No": "33.",
+        "NIM": "334455667",
+        "Jurusan": "Ilmu Komunikasi",
+        "Mata_Kuliah": "Media Sosial"
+    },
+    {
+        "No": "34.",
+        "NIM": "556677889",
+        "Jurusan": "Bahasa Inggris",
+        "Mata_Kuliah": "Sastra Inggris"
+    },
+    {
+        "No": "35.",
+        "NIM": "112233445",
+        "Jurusan": "Ilmu Ekonomi",
+        "Mata_Kuliah": "Ekonomi Mikro"
+    },
+    {
+        "No": "36.",
+        "NIM": "334455667",
+        "Jurusan": "Ilmu Politik",
+        "Mata_Kuliah": "Hubungan Internasional"
+    },
+    {
+        "No": "37.",
+        "NIM": "556677889",
+        "Jurusan": "Manajemen",
+        "Mata_Kuliah": "Manajemen Strategik"
+    },
+    {
+        "No": "38.",
+        "NIM": "112233445",
+        "Jurusan": "Akuntansi",
+        "Mata_Kuliah": "Audit Keuangan"
+    },
+    {
+        "No": "39.",
+        "NIM": "334455667",
+        "Jurusan": "Psikologi",
+        "Mata_Kuliah": "Psikologi Klinis"
+    },
+    {
+        "No": "40.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Informatika",
+        "Mata_Kuliah": "Sistem Operasi"
+    },
+    {
+        "No": "41.",
+        "NIM": "112233445",
+        "Jurusan": "Sistem Informasi",
+        "Mata_Kuliah": "Analisis Sistem"
+    },
+    {
+        "No": "42.",
+        "NIM": "334455667",
+        "Jurusan": "Manajemen Informatika",
+        "Mata_Kuliah": "Manajemen Proyek TI"
+    },
+    {
+        "No": "43.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Elektro",
+        "Mata_Kuliah": "Instrumentasi Elektronik"
+    },
+    {
+        "No": "44.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Mesin",
+        "Mata_Kuliah": "Dinamika Fluida"
+    },
+    {
+        "No": "45.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Kimia",
+        "Mata_Kuliah": "Teknik Reaksi Kimia"
+    },
+    {
+        "No": "46.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Sipil",
+        "Mata_Kuliah": "Manajemen Konstruksi"
+    },
+    {
+        "No": "47.",
+        "NIM": "112233445",
+        "Jurusan": "Arsitektur",
+        "Mata_Kuliah": "Arsitektur Lansekap"
+    },
+    {
+        "No": "48.",
+        "NIM": "334455667",
+        "Jurusan": "Ilmu Komunikasi",
+        "Mata_Kuliah": "Teori Komunikasi"
+    },
+    {
+        "No": "49.",
+        "NIM": "556677889",
+        "Jurusan": "Bahasa Inggris",
+        "Mata_Kuliah": "Linguistik"
+    },
+    {
+        "No": "50.",
+        "NIM": "112233445",
+        "Jurusan": "Ilmu Ekonomi",
+        "Mata_Kuliah": "Ekonomi Pembangunan"
+    },
+    {
+        "No": "51.",
+        "NIM": "334455667",
+        "Jurusan": "Ilmu Politik",
+        "Mata_Kuliah": "Politik Lokal"
+    },
+    {
+        "No": "52.",
+        "NIM": "556677889",
+        "Jurusan": "Manajemen",
+        "Mata_Kuliah": "Manajemen Operasional"
+    },
+    {
+        "No": "53.",
+        "NIM": "112233445",
+        "Jurusan": "Akuntansi",
+        "Mata_Kuliah": "Akuntansi Manajemen"
+    },
+    {
+        "No": "54.",
+        "NIM": "334455667",
+        "Jurusan": "Psikologi",
+        "Mata_Kuliah": "Psikologi Sosial"
+    },
+    {
+        "No": "55.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Informatika",
+        "Mata_Kuliah": "Sistem Keamanan"
+    },
+    {
+        "No": "56.",
+        "NIM": "112233445",
+        "Jurusan": "Sistem Informasi",
+        "Mata_Kuliah": "Pengembangan Sistem Enterprise"
+    },
+    {
+        "No": "57.",
+        "NIM": "334455667",
+        "Jurusan": "Manajemen Informatika",
+        "Mata_Kuliah": "Manajemen Pengetahuan"
+    },
+    {
+        "No": "58.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Elektro",
+        "Mata_Kuliah": "Robotika"
+    },
+    {
+        "No": "59.",
+        "NIM": "112233445",
+        "Jurusan": "Teknik Mesin",
+        "Mata_Kuliah": "Mesin Termal"
+    },
+    {
+        "No": "60.",
+        "NIM": "334455667",
+        "Jurusan": "Teknik Kimia",
+        "Mata_Kuliah": "Simulasi Proses Kimia"
+    },
+    {
+        "No": "61.",
+        "NIM": "556677889",
+        "Jurusan": "Teknik Sipil",
+        "Mata_Kuliah": "Teknik Geoteknik"
+    },
+    {
+        "No": "62.",
+        "NIM": "112233445",
+        "Jurusan": "Arsitektur",
+        "Mata_Kuliah": "Arsitektur Vernakular"
+    },
+    {
+        "No": "63.",
+        "NIM": "334455667",
+        "Jurusan": "Ilmu Komunikasi",
+        "Mata_Kuliah": "Komunikasi Massa"
+    },
+    {
+        "No": "64.",
+        "NIM": "556677889",
+        "Jurusan": "Bahasa Inggris",
+        "Mata_Kuliah": "Kajian Budaya Inggris"
+    }
+]
